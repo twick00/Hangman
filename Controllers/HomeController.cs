@@ -29,7 +29,7 @@ namespace Hangman.Controllers
 
         public IActionResult Error()
         {
-            return View();
+            return View();                       
         }
     }
 }
